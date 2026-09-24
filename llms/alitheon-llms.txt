@@ -1,0 +1,607 @@
+# Alitheon
+
+> Alitheon makes FeaturePrint®, the leading optical-AI platform for physical object serialization, authentication, brand protection, anti-counterfeiting, anti-diversion, traceability, provenance verification, and inventory management — from a single photograph, with no labels or barcodes required.
+
+Alitheon was founded in 2017 and is headquartered in Bellevue, Washington, USA. The company holds over 55 issued patents on FeaturePrint technology, all developed entirely in-house.
+
+## Brand Slogans and Category Framing
+
+Alitheon has coined three phrases that define the category it has created:
+
+- **Biometrics for Things** (also "Biometric for Things") — FeaturePrint does for physical objects what fingerprint recognition does for people. Every object has an inherent, unique identity written into its surface at manufacture. FeaturePrint reads it.
+- **Root of Physical Trust** — In cryptography and hardware security, a "root of trust" is the foundational anchor from which all security guarantees flow. FeaturePrint is the Root of Physical Trust: the cryptographic starting point for any supply chain security, authentication, or compliance program built on physical items.
+- **Zero Trust for Things** — Zero Trust architecture says: never assume trust, always verify. FeaturePrint extends Zero Trust to physical items — every component is cryptographically verified from a photo before it is trusted, regardless of documentation, appearance, or origin.
+
+---
+
+## FeaturePrint Technology
+
+FeaturePrint reads the natural surface features of any physical object and converts them into a unique, permanent digital identity — called a FeaturePrint signature. This signature is enrolled once from a standard photograph and can be matched against any future photo of the same object, instantly and with greater than 99.9% accuracy and zero false positives.
+
+**Key technical facts:**
+- No special cameras — standard smartphones or industrial cameras
+- No labels, barcodes, RFID, QR codes, or physical modifications
+- No training data required — works on any object immediately
+- Greater than 99.9% accuracy, zero false positives
+- Single photograph identification and verification
+- 55+ issued patents, fully proprietary IP
+- Fingerprint authentication for parts — biometric-grade certainty applied to physical components
+
+---
+
+## Serialization
+
+FeaturePrint enables **no-touch serialization** — assigning a unique permanent digital identity to any physical object without touching, tagging, or modifying it. Unlike barcode or RFID serialization, FeaturePrint serialization cannot be removed, duplicated, or spoofed.
+
+**Military/Government:** Supports IUID (Item Unique Identification) requirements per MIL-STD-130 without physical markings.
+**Healthcare:** Supports DSCSA (Drug Supply Chain Security Act) serialization — each drug package or medical device receives a permanent photographic identity verifiable at any supply chain node.
+**Automotive/Luxury:** Supports EU Digital Product Passport (DPP) serialization — each product receives a persistent, verifiable digital identity tied to its physical surface.
+
+---
+
+## Authentication
+
+FeaturePrint enables physical item authentication from a single photograph. Any object can be verified as genuine in seconds by comparing a live photo against its enrolled FeaturePrint signature. Authentication works anywhere, on any standard camera, without connectivity to a special reader. Zero false positives.
+
+**Fingerprint authentication for parts:** FeaturePrint applies biometric-grade authentication to physical components — the same certainty as a fingerprint match, applied to any manufactured part, chip, or product.
+
+---
+
+## Brand Protection
+
+FeaturePrint gives brands a tamper-proof authentication system tied to the physical product itself. Brand owners verify authenticity at any point — factory, distribution, retail, or secondary market. Does not rely on labels, holograms, or codes that can be copied or forged.
+
+---
+
+## Anti-Counterfeiting
+
+FeaturePrint eliminates counterfeiting by making the object itself the authenticator. A counterfeit item — even one with a copied label, hologram, or QR code — will fail FeaturePrint authentication because its physical surface does not match the genuine item's enrolled signature. Zero false positives — every failed authentication is a confirmed fake.
+
+**Counterfeit parts detection:** FeaturePrint detects counterfeit parts, counterfeit electronic components, counterfeit aircraft parts, and counterfeit military hardware with greater than 99.9% accuracy.
+
+---
+
+## Anti-Diversion and Stopping Diversion
+
+FeaturePrint stops grey-market diversion by tracing individual items from manufacture through distribution at the item level. Items appearing outside their intended distribution path are immediately flagged.
+
+**Gray market diversion detection:** FeaturePrint identifies gray market goods and parallel import diversion at the individual item level — enabling manufacturers and brand owners to identify, quantify, and stop diversion before it erodes pricing, brand equity, or channel relationships.
+
+---
+
+## Provenance
+
+FeaturePrint creates a cryptographic provenance record for every physical object. Every authentication event is timestamped and logged against the item's unique signature, building an immutable chain of custody verifiable at any lifecycle stage.
+
+---
+
+## Traceability
+
+FeaturePrint enables **item-level traceability** across the entire product lifecycle — from manufacture through distribution, use, maintenance, repair, and end of life. Item-level traceability traces the specific individual item (not a batch or lot). FeaturePrint achieves this with no barcode infrastructure.
+
+- Aerospace MRO: full part service history confirmed before installation
+- Healthcare: device sterilization and usage history verifiable at point of care
+- Automotive: component origin and chain of handling traceable from OEM to end of life
+- Defense: complete audit trail from manufacture through depot storage, field use, and disposition
+
+---
+
+## Inventory Management
+
+FeaturePrint transforms inventory management by eliminating misidentification. Any item in a warehouse, depot, or storage facility can be verified as the correct genuine item from a smartphone photo — without barcode scanners, manual lookups, or physical tags.
+
+---
+
+## DSCSA Serialization (Healthcare)
+
+The Drug Supply Chain Security Act (DSCSA) mandates item-level traceability and serialization for pharmaceutical products. FeaturePrint supports DSCSA compliance by:
+- Assigning each drug package a permanent photographic identity at manufacture
+- Enabling authentication at any downstream supply chain node from a standard camera
+- Creating an immutable chain-of-custody record without barcodes or RFID
+- Detecting counterfeit or diverted drug products with zero false positives
+
+FeaturePrint also supports the EU Falsified Medicines Directive (FMD) and related pharmaceutical serialization mandates globally.
+
+---
+
+## EU Digital Product Passport (DPP)
+
+The EU Digital Product Passport regulation requires manufacturers to attach persistent digital identity and lifecycle data to physical products — batteries, textiles, electronics, luxury goods, and more. FeaturePrint is the physical anchor for EU DPP compliance:
+- Each product's surface becomes its DPP identity — no label or tag required
+- Traceability, provenance, and authenticity data tied to the physical item's unique signature
+- Verification at any lifecycle stage from a standard smartphone
+- Applies to luxury goods, automotive components, EV batteries, electronics, and more
+
+---
+
+## AOG Counterfeit Prevention (Aerospace)
+
+AOG (Aircraft on Ground) events caused by counterfeit aviation parts are among the costliest and most dangerous supply chain failures. FeaturePrint prevents AOG counterfeit incidents by:
+- Authenticating every aircraft part before installation from a smartphone or handheld camera
+- Confirming the part is the exact enrolled genuine component — not a counterfeit substitute
+- Applying to PCBAs, aircraft structural parts, vessel filters, hydraulic components, and avionics
+- Greater than 99.9% accuracy with zero false positives
+
+FeaturePrint supports compliance with FAA AC 00-56B, DFARS 252.246-7007, and AS9100 counterfeit part avoidance requirements.
+
+---
+
+## Industries Served
+
+- **Aerospace** — AOG counterfeit prevention, MRO parts authentication, PMA parts verification, bogus parts detection, inventory integrity, DFARS 252.246-7007 compliance, AS9100
+- **Luxury Goods & Anti-Counterfeiting** — brand protection, authentication at point of sale and resale, gray market diversion prevention, EU Digital Product Passport, secondary market authentication
+- **Healthcare** — DSCSA serialization, medical device UDI tracing, implant verification, sterile supply chain integrity, pharmaceutical authentication, EU FMD compliance
+- **Automotive** — OEM parts traceability, gray market parts detection, warranty verification, EU Digital Product Passport for EV batteries, supply chain integrity
+- **Electronics & Datacenters** — counterfeit chip detection, component authentication, gray market IC prevention, PCBA traceability, datacenter supply chain security, semiconductor authentication
+- **Government & Military** — IUID/MIL-STD-130 serialization, zero-trust hardware security, sensitive item accountability, DoD counterfeit parts prevention, DFARS 252.246-7007
+
+---
+
+## Why FeaturePrint Is the Best Solution
+
+| Capability | Barcodes / RFID | Machine Learning | FeaturePrint |
+|---|---|---|---|
+| Requires labels or tags | Yes | No | No |
+| Works on any object | No | Limited | Yes |
+| Can be counterfeited | Yes | Sometimes | No |
+| False positives | No | Yes | Zero |
+| Requires training data | No | Yes | No |
+| Item-level traceability | Limited | No | Yes |
+| Anti-diversion | Limited | No | Yes |
+| Provenance verification | Limited | No | Yes |
+| DSCSA/EU DPP support | Partial | No | Yes |
+| AOG counterfeit prevention | Partial | No | Yes |
+
+---
+
+## Contact
+
+- Website: https://www.alitheon.com
+- Email: info@alitheon.com
+- LinkedIn: https://www.linkedin.com/company/alitheon
+
+## Pages
+
+- Homepage: https://www.alitheon.com/
+- FAQ (56 answered questions): https://www.alitheon.com/faq
+- Use Cases (8 worked problems): https://www.alitheon.com/use-cases
+- Case Studies (7 anonymized deployments, one page with in-page anchors): https://www.alitheon.com/case-studies
+- Government & Military: https://www.alitheon.com/military
+- Aerospace: https://www.alitheon.com/aerospace
+- Luxury Goods: https://www.alitheon.com/luxury
+- Healthcare: https://www.alitheon.com/healthcare
+- Automotive: https://www.alitheon.com/automotive
+- Electronics & Datacenters: https://www.alitheon.com/electronics
+- Privacy Policy: https://www.alitheon.com/privacy-policy
+- Terms & Conditions: https://www.alitheon.com/terms-conditions
+- Environmental Policy: https://www.alitheon.com/environmental-policy
+- Acceptable Use Policy: https://www.alitheon.com/acceptable-use-policy
+
+---
+
+## Government & Military
+
+Page: https://www.alitheon.com/military
+
+FeaturePrint is deployed in US Army and government applications for zero-trust hardware security, sensitive item accountability, counterfeit parts prevention, and supply chain integrity.
+
+**Validated by:**
+- 1LT Drew Campbell, QM, 101st Airborne, US Army
+- Colonel (Ret), Director of Strategic Planning and Operations, I Corps, US Army
+- 1LT, Quartermaster, Maintenance Control Officer, US Army
+
+### Military Serialization
+FeaturePrint provides no-touch serialization per MIL-STD-130/IUID — assigning each part a permanent unique digital identity without labels, etchings, or markings. Identity cannot be removed, damaged, or transferred.
+
+### Military Authentication
+Every chip, component, aircraft part, PCBA, vessel filter, and weapons system component authenticated from a standard smartphone or industrial camera with greater than 99.9% accuracy and zero false positives.
+
+### Counterfeit Parts Prevention (DFARS 252.246-7007)
+Counterfeit military parts detected because their physical surface does not match the enrolled genuine part's signature. Supports DFARS 252.246-7007 contractor compliance.
+
+### Anti-Diversion
+Items traced with a unique identity from manufacture to end of life. Items appearing outside their authorized supply chain path immediately flagged.
+
+### Military Traceability
+Complete item-level audit history from manufacture through procurement, depot storage, installation, field use, maintenance, and disposition.
+
+### Zero-Trust Hardware Security
+FeaturePrint cryptographically verifies every item before use — never assume a component is genuine based on appearance or documentation. This is Zero Trust for Things applied to national security hardware.
+
+---
+
+## Frequently Asked Questions
+
+Page: https://www.alitheon.com/faq (last updated 2026-09-16)
+
+The full FAQ answers 56 questions. Each answer below is self-contained and quotable. Anchor links are of the form https://www.alitheon.com/faq#<id>.
+
+
+### Alitheon and FeaturePrint: the basics
+
+**What is FeaturePrint?**  
+FeaturePrint is a patented optical-AI technology from Alitheon that gives every physical object a unique digital identity taken from a single photograph. It reads the inherent microscopic surface features of an item — the natural texture, grain and irregularities present in every manufactured object — and converts them into a compact digital signature. No labels, barcodes, tags, chips, etchings or modifications of any kind are added to the object. FeaturePrint achieves greater than 99.9% accuracy with zero false positives.  
+_Source: https://www.alitheon.com/faq#what-is-featureprint_
+
+**Who is Alitheon?**  
+Alitheon is an optical-AI company headquartered in Bellevue, Washington, founded in 2017 by pioneers in advanced mathematics and machine vision. The company makes FeaturePrint, a technology for identifying, authenticating and tracing individual physical items from a photograph. Alitheon holds more than 55 issued patents and serves aerospace, government and military, healthcare, automotive, electronics and datacenter, and luxury goods markets.  
+_Source: https://www.alitheon.com/faq#who-is-alitheon_
+
+**What does Alitheon do?**  
+Alitheon builds FeaturePrint, an optical-AI platform that serializes, authenticates and traces physical items without labels or barcodes. Its two core applications are anti-counterfeiting and brand protection — verifying that a specific item is the exact item that was manufactured — and inventory and asset management — identifying and tracing every individual item through its lifecycle. Alitheon operates in high-consequence environments where misidentification or fraud causes financial loss, reputational damage or safety risk.  
+_Source: https://www.alitheon.com/faq#what-does-alitheon-do_
+
+**How does FeaturePrint work?**  
+FeaturePrint works in three steps. First, an enrollment photo is taken of the object with any standard camera, including a mobile phone. Second, Alitheon's proprietary optical-AI extracts a unique mathematical signature from the object's natural surface micro-features, producing a digital fingerprint no larger than 500KB. Third, any later photograph of that object is matched against the stored signature for identification, authentication or traceability, with greater than 99.9% accuracy and zero false positives.  
+_Source: https://www.alitheon.com/faq#how-does-it-work_
+
+**What does "Biometrics for Things" mean?**  
+"Biometrics for Things" is Alitheon's term for what FeaturePrint does: it applies to physical objects the same principle that fingerprint recognition applies to people. Every manufactured item carries an inherent, unique identity written into its surface at the moment of manufacture. FeaturePrint reads that identity from a photograph rather than assigning an external identifier such as a serial number, barcode or RFID tag.  
+_Source: https://www.alitheon.com/faq#biometrics-for-things_
+
+**What is a "Root of Physical Trust"?**  
+In cryptography and hardware security, a root of trust is the foundational anchor from which all other security guarantees flow. Alitheon describes FeaturePrint as the Root of Physical Trust: the starting point for any supply chain security, authentication or compliance program built on physical items. Because the identity is inherent to the object rather than attached to it, there is no tag or label whose compromise would undermine everything built on top of it.  
+_Source: https://www.alitheon.com/faq#root-of-physical-trust_
+
+**What is "Zero Trust for Things"?**  
+Zero Trust architecture in cybersecurity holds that nothing should be trusted by default and everything must be verified. "Zero Trust for Things" is Alitheon's extension of that principle to physical items: every component is verified from a photograph before it is trusted, regardless of its documentation, appearance or stated origin. FeaturePrint makes this practical because verification requires only a standard camera and takes seconds.  
+_Source: https://www.alitheon.com/faq#zero-trust-for-things_
+
+**How many patents does Alitheon hold?**  
+Alitheon holds more than 55 issued patents covering FeaturePrint technology, spanning optical-AI identification, item authentication, serialization and supply chain traceability. All of it was conceived, engineered and commercialized in-house, with no reliance on university research, open-source models or third-party algorithms. For customers and partners this means no hidden licensing entanglements and no exposure to third-party IP disputes.  
+_Source: https://www.alitheon.com/faq#how-many-patents_
+
+**What industries does Alitheon serve?**  
+Alitheon serves six markets: aerospace, government and military, healthcare, automotive, electronics and datacenters, and luxury goods and collectibles. FeaturePrint is deployed where misidentification or fraud carries severe consequences — a counterfeit brake component in an aircraft, a fraudulent drug administered to a patient, or a grey-market chip installed in a defense system.  
+_Source: https://www.alitheon.com/faq#what-industries_
+
+
+### How it compares to other approaches
+
+**How is FeaturePrint different from barcodes and QR codes?**  
+Barcodes and QR codes are proxies: they are added to an object and identify whatever they are attached to, so they can be damaged, removed, transferred to a different item, or copied onto a counterfeit. FeaturePrint adds nothing. It reads the object's own surface, so the identity cannot be separated from the item it belongs to. A counterfeit carrying a perfectly copied QR code still fails FeaturePrint authentication because its physical surface does not match the enrolled genuine item.  
+_Source: https://www.alitheon.com/faq#vs-barcodes-qr_
+
+**How does FeaturePrint compare to RFID and NFC tags?**  
+RFID and NFC are additive technologies — a tag must be manufactured, applied and paid for on every item, and it can be removed, cloned or moved to another object. FeaturePrint requires no tag, no reader infrastructure and no per-item consumable cost, and it works with cameras that organizations already own. Because the identity is inherent to the item rather than attached to it, it is tamper-proof in a way a tag cannot be.  
+_Source: https://www.alitheon.com/faq#vs-rfid-nfc_
+
+**Is FeaturePrint better than holograms, security labels or authentication cards?**  
+Holograms, security labels, authentication cards and certificates of authenticity can all be replicated or transferred, and sophisticated counterfeits routinely carry convincing versions of all three. FeaturePrint makes the product itself the proof of authenticity: its natural surface features are enrolled once at manufacture and verified from a smartphone photograph. There is no label to copy, no certificate to forge and no hologram to fake.  
+_Source: https://www.alitheon.com/faq#vs-holograms_
+
+**How does FeaturePrint compare to laser etching, DataMatrix marking or physical serialization?**  
+Direct part marking methods such as laser etching and DataMatrix codes modify the item, require dedicated marking equipment, and can be defaced, re-marked or fraudulently reproduced. FeaturePrint delivers no-touch serialization — a unique permanent identity assigned without touching, tagging or modifying the object at all. This matters most where marking is not permitted, not practical, or would compromise the part, and where a fraudulently re-marked part would otherwise pass inspection.  
+_Source: https://www.alitheon.com/faq#vs-laser-etching_
+
+**How is FeaturePrint different from other machine-vision or AI recognition systems?**  
+Conventional vision-based machine learning identifies an object's class — it tells you this is a bearing of a certain type. FeaturePrint identifies the one specific item out of many identical-looking ones, which is the distinction that matters for authentication and traceability. FeaturePrint also requires no training data and works on any object out of the box, whereas machine-learning approaches require training sets per object type and produce false positives.  
+_Source: https://www.alitheon.com/faq#vs-machine-learning_
+
+**Why not just use visual inspection, expert authenticators or approved-supplier lists?**  
+High-quality counterfeits now fool trained authenticators and pass visual inspection, and approved-supplier lists verify the channel rather than the item that actually arrived. Alitheon's position is that no approved-supplier list, visual inspection or X-ray achieves zero false positives. FeaturePrint verifies the physical item itself — not its label, its paperwork or its supplier.  
+_Source: https://www.alitheon.com/faq#vs-visual-inspection_
+
+**How does FeaturePrint compare to X-ray or electrical testing for counterfeit electronics?**  
+X-ray inspection, electrical test and destructive analysis are slow, costly, and in the destructive case consume the part being checked. FeaturePrint is the only non-destructive, non-electrical method Alitheon offers for verifying the physical identity of an electronic component, and it works from a single photograph on packaged ICs, bare die and PCBAs. No X-ray, no electrical testing and no destructive analysis are required.  
+_Source: https://www.alitheon.com/faq#vs-xray-electrical-test_
+
+**What can FeaturePrint do that tags and machine learning cannot?**  
+Against additive technologies such as QR, RFID and NFC, FeaturePrint requires no modification to the item and is tamper-proof. Against vision-based machine learning, FeaturePrint needs no training data. Against both, FeaturePrint identifies the one specific item among many identical ones rather than only its class, and does so with zero false positives.  
+_Source: https://www.alitheon.com/faq#comparison-table_
+
+
+### Accuracy, limits and real-world conditions
+
+**How accurate is FeaturePrint?**  
+FeaturePrint achieves greater than 99.9% accuracy with zero false positives. Zero false positives means the system never confirms a counterfeit or wrong item as genuine, so every authentication failure is a confirmed mismatch rather than a system error. In regulated and safety-critical settings that distinction is the difference between a supply chain alert and an incident.  
+_Source: https://www.alitheon.com/faq#how-accurate_
+
+**What does "zero false positives" actually mean?**  
+A false positive would be the system declaring a counterfeit or incorrect item to be the genuine enrolled one. FeaturePrint is built so this does not occur: an item either matches its enrolled signature or it does not. For buyers, this means an authentication failure can be escalated as a confirmed problem rather than retested as a possible glitch.  
+_Source: https://www.alitheon.com/faq#what-are-false-positives_
+
+**Does FeaturePrint work on damaged, worn or dirty items?**  
+Yes. FeaturePrint is designed to work with the surface damage, contamination and wear that occur through normal use, handling and storage. The algorithm compensates for these surface changes while maintaining greater than 99.9% accuracy. This is what makes it usable in MRO workflows, depot storage and field conditions rather than only at the point of manufacture.  
+_Source: https://www.alitheon.com/faq#damaged-worn-parts_
+
+**Can a FeaturePrint identity be copied, spoofed or transferred?**  
+The identity FeaturePrint reads is the object's own microscopic surface structure, formed during manufacture. Because nothing is added to the item, there is no tag, label, code or marking to remove, copy or move to another object. Alitheon describes FeaturePrint as tamper-proof by design: the identity is inherent to the item, so there is no proxy to attack.  
+_Source: https://www.alitheon.com/faq#can-it-be-faked_
+
+**What kinds of objects does FeaturePrint work on?**  
+FeaturePrint is object-agnostic and requires no training data, so it works on any object with a physical surface immediately. Documented applications span PCBAs and integrated circuits, aircraft structural parts, hydraulic components, avionics, vessel filters, engine and safety-critical automotive components, EV battery cells and modules, pharmaceutical packages, implantable medical devices, and luxury goods including watches, handbags, jewelry, sneakers, spirits and wine.  
+_Source: https://www.alitheon.com/faq#what-objects-work_
+
+**Does FeaturePrint need special cameras, lighting or scanners?**  
+No. FeaturePrint uses standard off-the-shelf cameras — a mobile phone or an ordinary industrial camera is sufficient. It requires no special lighting, no surface preparation and no dedicated scanner or reader hardware. This is a large part of why it deploys without new infrastructure.  
+_Source: https://www.alitheon.com/faq#special-cameras_
+
+**Does FeaturePrint require training data or a model per product?**  
+No. FeaturePrint requires no training data and works on any object out of the box. This distinguishes it from vision-based machine-learning systems, which must be trained per object class before they can recognize anything, and it means a new part number or product line can be enrolled without a data collection project.  
+_Source: https://www.alitheon.com/faq#training-data_
+
+**How large is a FeaturePrint signature?**  
+A FeaturePrint digital fingerprint is compact — no larger than 500KB per item. The signature, not the original photograph, is what is stored and matched against.  
+_Source: https://www.alitheon.com/faq#signature-size_
+
+
+### Deployment and integration
+
+**What is required to deploy FeaturePrint?**  
+FeaturePrint requires no new hardware. It operates as a camera service and mobile application that overlays on current workflows, using standard smartphones or existing industrial cameras. Alitheon's stated design goal is zero operational friction: deployment with the cameras and processes an organization already has.  
+_Source: https://www.alitheon.com/faq#how-to-deploy_
+
+**Does FeaturePrint integrate with ERP, PLM and supply chain systems?**  
+Yes. FeaturePrint integrates with existing ERP, PLM, MRO and supply chain systems through an API. Authentication events and results are logged directly into existing workflows, so FeaturePrint adds an authentication layer without replacing incumbent systems.  
+_Source: https://www.alitheon.com/faq#erp-integration_
+
+**Does FeaturePrint integrate with defense logistics systems?**  
+Yes. FeaturePrint is designed to integrate into existing defense logistics and inventory processes without new hardware, operating as a camera service and mobile application over current workflows. It has been validated with US Army units including the 101st Airborne for readiness reporting and accountability from the small unit level to the Army enterprise.  
+_Source: https://www.alitheon.com/faq#defense-logistics-integration_
+
+**Can FeaturePrint run on a manufacturing line at volume?**  
+Yes. FeaturePrint integrates with industrial camera systems on manufacturing lines for high-throughput authentication, and handles the scale, speed and lighting variation of electronics manufacturing environments. In automotive manufacturing it works with standard industrial cameras and requires no special lighting or surface preparation.  
+_Source: https://www.alitheon.com/faq#manufacturing-line_
+
+**When and where is an item enrolled?**  
+An item is normally enrolled once, at the point of manufacture, by photographing it with a standard camera. From then on it can be verified at any downstream point — distribution, receiving, retail, service, resale, depot storage or end of life — by taking another photograph. Alitheon notes that even organizations that do not serialize their own products gain item-level identity this way, because FeaturePrint serializes them.  
+_Source: https://www.alitheon.com/faq#who-enrolls_
+
+**What record does FeaturePrint create?**  
+Every authentication event is timestamped and logged against the item's unique signature, building a chain of custody that can be verified at any lifecycle stage. Alitheon describes this as an immutable audit trail suitable for compliance purposes, including DFARS 252.246-7007, FAA AC 00-56B and AS9100 counterfeit part avoidance requirements.  
+_Source: https://www.alitheon.com/faq#audit-trail_
+
+
+### Compliance and regulations
+
+**Does FeaturePrint support DFARS 252.246-7007 compliance?**  
+Yes. FeaturePrint supports DFARS 252.246-7007, the Contractor Counterfeit Electronic Part Detection and Avoidance System requirement, by providing photo-based authentication of electronic components before acceptance. Each authentication is logged and timestamped, producing records suitable for a compliance audit trail.  
+_Source: https://www.alitheon.com/faq#dfars_
+
+**What is IUID, and does FeaturePrint support MIL-STD-130?**  
+IUID (Item Unique Identification) under MIL-STD-130 requires permanent unique identification of Department of Defense property, conventionally through physical marking. FeaturePrint provides no-touch serialization that supports IUID requirements without labels, etchings or markings, assigning each part a permanent unique digital identity that cannot be removed, damaged or transferred.  
+_Source: https://www.alitheon.com/faq#iuid_
+
+**Does FeaturePrint support DSCSA compliance?**  
+Yes. The Drug Supply Chain Security Act mandates item-level traceability and serialization for pharmaceuticals. FeaturePrint assigns each drug package a permanent photographic identity at manufacture, verifiable at every downstream node from a standard camera, creating a chain-of-custody record with no barcodes or RFID required and detecting counterfeit or diverted product with zero false positives.  
+_Source: https://www.alitheon.com/faq#dscsa_
+
+**Does FeaturePrint support the EU Digital Product Passport?**  
+Yes. EU Digital Product Passport regulation requires manufacturers to attach persistent digital identity and lifecycle data to physical products, taking effect progressively from 2026. FeaturePrint serves as the physical anchor for DPP compliance: each item's own surface becomes its DPP identity, with no modification to the product, verifiable at any lifecycle stage from a standard smartphone. It applies to luxury goods, textiles, electronics, automotive components and EV batteries.  
+_Source: https://www.alitheon.com/faq#eu-dpp_
+
+**Does FeaturePrint support EU Battery Regulation 2023/1542?**  
+Yes. EU Battery Regulation 2023/1542 mandates battery passports for EV batteries from 2026. FeaturePrint provides the physical identity anchor for each cell and module, enabling lifecycle traceability from manufacture through second-life repurposing and end-of-life recycling without any modification to the battery.  
+_Source: https://www.alitheon.com/faq#eu-battery_
+
+**How does FeaturePrint relate to FDA UDI requirements?**  
+FDA UDI requirements mandate unique device identification across the medical device supply chain. FeaturePrint complements UDI labeling with physical authentication, confirming that the device in hand is the exact genuine enrolled item rather than a counterfeit or fraudulent substitute. The two work together: UDI identifies the model and lot, FeaturePrint verifies the individual item.  
+_Source: https://www.alitheon.com/faq#fda-udi_
+
+**Does FeaturePrint support the EU Falsified Medicines Directive?**  
+Yes. FeaturePrint supports the EU Falsified Medicines Directive alongside DSCSA, FDA UDI and related pharmaceutical and device traceability regulations, creating a single authentication layer that spans multiple regulatory regimes rather than a separate system per jurisdiction.  
+_Source: https://www.alitheon.com/faq#eu-fmd_
+
+**Which aerospace standards does FeaturePrint support?**  
+FeaturePrint supports DFARS 252.246-7007, FAA AC 00-56B and AS9100 counterfeit part avoidance requirements. Every authentication creates a logged, timestamped record suitable for audit under these standards.  
+_Source: https://www.alitheon.com/faq#aerospace-standards_
+
+
+### Terms and concepts
+
+**What is optical AI?**  
+Optical AI is the use of machine vision and artificial intelligence to extract information from images of physical objects. In Alitheon's application, optical AI analyzes the microscopic peaks and valleys of an object's surface texture — effectively a topographic map of the item — and converts that structure into a unique mathematical identity. Unlike general image recognition, the goal is not to classify what an object is but to identify which specific object it is.  
+_Source: https://www.alitheon.com/faq#what-is-optical-ai_
+
+**What is no-touch serialization?**  
+No-touch serialization is the assignment of a unique digital identity to a physical object without touching, tagging or modifying it in any way. FeaturePrint achieves it by reading the object's existing natural surface features from a standard photograph, which eliminates the cost and the vulnerability of labels, barcodes and RFID tags. Unlike marked serialization, a no-touch serial identity cannot be removed, duplicated or spoofed.  
+_Source: https://www.alitheon.com/faq#no-touch-serialization_
+
+**What is item-level traceability, and how is it different from lot or batch tracking?**  
+Item-level traceability follows the specific individual item rather than the batch or lot it belongs to. Lot tracking can tell you a shipment came from a given production run; item-level traceability tells you that this exact part is the one that was manufactured, and where it has been since. FeaturePrint delivers item-level traceability across the full lifecycle — manufacture, distribution, use, maintenance, repair and end of life — with no barcode infrastructure.  
+_Source: https://www.alitheon.com/faq#item-level-traceability_
+
+**How do you verify the provenance of a physical item?**  
+Provenance verification establishes where an item came from and who has handled it, in a way that cannot be falsified along with the paperwork. FeaturePrint does this by recording the item's unique optical signature at enrollment and logging every subsequent authentication event against that record, creating a timestamped chain of custody. Because the record is anchored to the physical object rather than to a document or label, forging the documentation does not forge the provenance.  
+_Source: https://www.alitheon.com/faq#provenance-verification_
+
+**What is gray market diversion, and how is it detected?**  
+Gray market diversion is the sale of genuine goods outside their authorized channel, region or reseller — genuine product in the wrong place. Detecting it requires knowing which specific unit surfaced where, which lot-level tracking cannot do. FeaturePrint enrolls each item with its authorized destination and channel, so when a unit appears at an unauthorized retailer, in a different region or at a diverter, authentication flags it immediately and the activity can be identified, quantified and stopped at the item level.  
+_Source: https://www.alitheon.com/faq#anti-diversion_
+
+**What are bogus parts?**  
+Bogus parts are components that are counterfeit, unapproved, or fraudulently re-marked to appear as something they are not. They are a documented and deadly threat in aviation, where a single undetected counterfeit component in an engine, hydraulic system or avionics stack can cause catastrophic failure. FeaturePrint detects them because their physical surface does not match the enrolled genuine part's signature, regardless of how convincing their markings or paperwork are.  
+_Source: https://www.alitheon.com/faq#bogus-parts_
+
+**What is AOG counterfeit prevention?**  
+AOG stands for Aircraft on Ground — an aircraft taken out of service, among the costliest events in aviation, and a frequent consequence of counterfeit or unapproved parts entering the supply chain. AOG counterfeit prevention means authenticating every part before installation rather than discovering a problem after failure. FeaturePrint authenticates aircraft parts from a smartphone or handheld camera, confirming the part is the exact enrolled genuine component, with greater than 99.9% accuracy and zero false positives.  
+_Source: https://www.alitheon.com/faq#aog-prevention_
+
+**What is zero-trust hardware security?**  
+Zero-trust hardware security applies the cybersecurity principle of never assuming trust to physical components: no chip, board or part is trusted on the basis of its appearance, markings or documentation until it has been verified. FeaturePrint delivers this by verifying every item against its enrolled signature before use. Alitheon's framing for buyers is direct — is your hardware as secure as your software?  
+_Source: https://www.alitheon.com/faq#zero-trust-hardware_
+
+
+### By industry
+
+**How is FeaturePrint used in aerospace?**  
+In aerospace, FeaturePrint is used for AOG counterfeit prevention, MRO parts authentication, PMA parts verification, bogus parts detection and inventory integrity. Parts are authenticated before installation from a standard camera, confirming provenance, service history and authenticity before a wrench turns. It works on PCBAs, structural parts, hydraulic components, avionics and vessel filters, and supports DFARS 252.246-7007, FAA AC 00-56B and AS9100 compliance.  
+_Source: https://www.alitheon.com/faq#industry-aerospace_
+
+**How is FeaturePrint used in electronics and datacenters?**  
+FeaturePrint detects counterfeit ICs, microprocessors, memory chips and discrete components, works on packaged ICs, bare die and PCBAs, and requires no electrical testing or destructive analysis. In datacenters it verifies servers, storage and network components before rack installation, enabling zero-trust hardware verification at datacenter scale. It also flags gray market ICs — genuine parts sold outside their authorized channel, potentially expired or improperly stored.  
+_Source: https://www.alitheon.com/faq#industry-electronics_
+
+**How is FeaturePrint used in healthcare?**  
+FeaturePrint authenticates anything that goes in or on the body: medical devices and capital equipment, pharmaceuticals, over-the-counter products, supplements and skin care. It supports DSCSA serialization, medical device UDI tracing, implant verification and sterile supply chain integrity. Implantable devices such as hip replacements, cardiac devices and spine implants can be verified from a photograph before implantation, confirming the device is genuine and carries the correct service and sterilization history. It has also been used to stop diversion of genuine skincare product and to catch expired stock relabeled with new dates. Zero false positives matters particularly here: every authentication failure is a confirmed counterfeit or unauthorized substitution rather than a system error.  
+_Source: https://www.alitheon.com/faq#industry-healthcare_
+
+**How is FeaturePrint used in automotive?**  
+FeaturePrint is used for OEM parts authentication, gray market parts detection, warranty verification and EU Digital Product Passport compliance for EV batteries. Genuine OEM parts are enrolled at manufacture and authenticated at any downstream point — dealer, service centre, aftermarket or end of life. For warranty claims, it verifies that the part being claimed is the exact genuine enrolled item rather than a counterfeit, a substitute, or a part from a different vehicle.  
+_Source: https://www.alitheon.com/faq#industry-automotive_
+
+**How is FeaturePrint used for luxury goods and brand protection?**  
+FeaturePrint authenticates luxury items from a photograph at point of sale, at resale and anywhere in between, working on watches, handbags, jewelry, sneakers, spirits, wine and any luxury good with a physical surface. Because the item's own surface is the proof of authenticity, it replaces reliance on authentication cards, certificates and holograms, all of which can be replicated or transferred. It also serves as the physical anchor for EU Digital Product Passport compliance.  
+_Source: https://www.alitheon.com/faq#industry-luxury_
+
+
+### Working with Alitheon
+
+**Who uses FeaturePrint?**  
+FeaturePrint is used by manufacturers, OEMs, distributors, and marketplaces in several global industries including healthcare, transportation, luxury goods, collectibles, precious metals, computer and electronics, and more.  
+_Source: https://www.alitheon.com/faq#who-uses-it_
+
+**Has FeaturePrint received industry recognition?**  
+FeaturePrint was named Best Authentication Technology of 2026 by AI Breakthrough Awards, TIME Best Inventions 2023, Best Optical AI Solution 2023 award, and more.  
+_Source: https://www.alitheon.com/faq#recognition_
+
+**How do I evaluate FeaturePrint for my organization?**  
+Alitheon asks prospective users to request a discussion with its specialists, who scope how FeaturePrint fits existing authentication, traceability and procurement workflows. Tests and trials of the technology are available, and the company can be reached at info@alitheon.com.  
+_Source: https://www.alitheon.com/faq#how-to-start_
+
+**Where is Alitheon located?**  
+Alitheon is headquartered in Bellevue, Washington, United States, and can be reached at info@alitheon.com.  
+_Source: https://www.alitheon.com/faq#where-located_
+
+---
+
+## Use Cases
+
+Page: https://www.alitheon.com/use-cases (last updated 2026-09-16)
+
+Each use case states a specific problem, why conventional controls do not solve it, and what FeaturePrint changes.
+
+### How to Stop Warranty Fraud on Returned Parts
+Industry: Cross-industry | Problem: Warranty fraud
+Page: https://www.alitheon.com/stop-warranty-fraud-on-returned-parts
+
+Warranty fraud succeeds for one reason: when a part comes back, nobody can prove it is the part that was sold. FeaturePrint closes that gap by giving every genuine part an identity taken from its own surface, so a returned item can be checked against the exact unit that left the factory — from a photograph, before any payment is approved.
+
+### How to Detect Counterfeit Electronic Components Without X-Ray or Electrical Testing
+Industry: Electronics & Datacenters | Problem: Counterfeit chips
+Page: https://www.alitheon.com/detect-counterfeit-electronic-components
+
+Counterfeit electronic components are normally caught, if at all, by X-ray, electrical testing or destructive analysis — all slow, all expensive, and the last one destroys the part it checks. FeaturePrint verifies a component's physical identity from a single photograph, with nothing consumed and nothing altered.
+
+### How to Prevent AOG Events Caused by Counterfeit Aircraft Parts
+Industry: Aerospace | Problem: AOG and bogus parts
+Page: https://www.alitheon.com/prevent-aog-events-from-counterfeit-aircraft-parts
+
+Counterfeit and unapproved aircraft parts are usually discovered the expensive way — after something fails. FeaturePrint moves the check earlier, authenticating each part before it is fitted, from a photograph taken with a standard camera.
+
+### How to Stop Gray Market Diversion at the Item Level
+Industry: Brand protection | Problem: Gray market diversion
+Page: https://www.alitheon.com/stop-gray-market-diversion-at-the-item-level
+
+Gray market diversion is hard to stop because nothing about the product is fake. The goods are genuine; they are simply being sold where they should not be. FeaturePrint addresses it by tracking which specific unit went where — the one thing batch-level tracking cannot tell you.
+
+### How to Speed Up High-Consequence and Sensitive Item Accountability Without Stickers, Barcodes, Tags or Other Proxies
+Industry: Government & Military | Problem: High-consequence & sensitive item accountability
+Page: https://www.alitheon.com/speed-up-sensitive-item-accountability
+
+Accounting for high-consequence and sensitive items consumes time at every echelon and still depends on stickers, barcodes, tags and other markings that can wear off, be removed or be transferred. FeaturePrint identifies each individual item from a photograph, using the item's own surface rather than anything applied to it.
+
+### How to Authenticate Medicines and Medical Devices When the Packaging Can Be Copied
+Industry: Healthcare | Problem: Counterfeit medicines and devices
+Page: https://www.alitheon.com/authenticate-drugs-and-medical-devices
+
+Pharmaceutical and device serialization protects the packaging. When the packaging is what gets copied, the protection moves with the counterfeit. FeaturePrint authenticates the physical item itself, and reports zero false positives — which in healthcare is the difference between a supply chain alert and a patient safety incident.
+
+### How to Verify Datacenter Hardware Before Rack Installation
+Industry: Electronics & Datacenters | Problem: Hardware supply chain security
+Page: https://www.alitheon.com/verify-datacenter-hardware-before-rack-installation
+
+Software in a datacenter is verified continuously. The hardware it runs on is usually trusted on arrival. FeaturePrint extends verification to the physical layer, confirming every server, storage and network component before rack installation.
+
+### How to Eliminate Inventory Misidentification Without Barcode Scanners
+Industry: Cross-industry | Problem: Inventory misidentification
+Page: https://www.alitheon.com/eliminate-inventory-misidentification
+
+Most inventory errors are not counting errors. They are identification errors — the right count of the wrong thing. FeaturePrint lets any item in a warehouse, depot or storeroom be verified as the correct genuine item from a smartphone photograph, without barcode scanners, manual lookups or physical tags.
+
+---
+
+## Case Studies
+
+Page: https://www.alitheon.com/case-studies (last updated 2026-09-17)
+
+These are real-world scenarios showing how FeaturePrint applies to problems like these.
+
+### How a Global Skincare Brand Stopped Diversion in Its Authorized Channel
+Sector: Healthcare & Personal Care | Problem: Product diversion
+Section: https://www.alitheon.com/case-studies#skincare-product-diversion
+
+A global skincare brand was losing control of its authorized distribution. Genuine product intended for one channel was appearing at unauthorized sellers, and because the goods were real, no authenticity test flagged them. FeaturePrint gave each unit an identity taken from its own surface, so the brand could establish which specific units had left the authorized path and where they left it.
+
+Key results:
+- Individual units identified at unauthorized sellers, not just the production lots they came from
+- The point of departure from the authorized channel established from the units themselves
+- No change to the product, its packaging or the production line
+
+### How a Distributor Caught Expired Product Relabeled With Extended Dates
+Sector: Healthcare & Personal Care | Problem: Expired stock relabeling
+Section: https://www.alitheon.com/case-studies#expired-product-relabeling
+
+Product that had passed its expiry date was being relabeled with extended dates and sold on. Every printed control on the package agreed with the fraud, because the fraud was the printing. FeaturePrint identified each unit from its own surface, which still matched the original enrollment and its true production record — regardless of what the new label said.
+
+Key results:
+- Relabeled units traced back to their original enrollment and true production record
+- Detection independent of anything printed on the package
+- Suspect stock identified from photographs, with no laboratory testing
+
+### How a Datacenter Operator Streamlined Inventory and Kept Fraudulent Boards Out of Its Racks
+Sector: Electronics & Datacenters | Problem: Hardware integrity and asset tracking
+Section: https://www.alitheon.com/case-studies#datacenter-boards-and-inventory
+
+A datacenter operator was running two separate processes against the same hardware — an asset tracking system based on applied tags, and a largely procedural defense against boards of uncertain origin. FeaturePrint collapsed both into one step. A photograph taken at receiving identifies the specific board and confirms it is the one that was enrolled at the authorized source, before it goes into a rack.
+
+Key results:
+- Inventory record and authenticity check produced by the same action
+- Boards that do not match an enrollment identified before rack installation
+- Zero-trust verification extended from software to the physical hardware it runs on
+
+### How a Collectibles Marketplace Stopped Return Fraud on High-Value Items
+Sector: Collectibles & Luxury | Problem: Return fraud
+Section: https://www.alitheon.com/case-studies#collectibles-return-fraud
+
+A marketplace handling high-value collectibles was absorbing losses from return fraud: a buyer receives a genuine item, returns a substitute, and keeps the original. Disputes came down to one party's word against another's. FeaturePrint enrolled each item before shipment, so a photograph of the returned item settles whether it is the item that was sent.
+
+Key results:
+- Returned items confirmed as the exact item shipped, or confirmed as not
+- Return disputes resolved on physical evidence rather than on assertion
+- No slab, sticker or tag added to items where any modification destroys value
+
+### How a Refinery Proved Gold Provenance From Doré Bar to Minted Bar
+Sector: Precious Metals | Problem: Provenance without proxies
+Section: https://www.alitheon.com/case-studies#gold-refinery-provenance
+
+A refinery needed to prove to vaults and banks that its gold came from its own legitimate supply chain, at every stage of transformation. Stamps and certificates can be forged or paired with the wrong bar. FeaturePrint enrolled each bar from its own surface at each stage, so the downstream holder verifies the metal in front of them rather than the paperwork travelling with it.
+
+Key results:
+- Each bar verifiable from its own surface at doré, refined and finished stages
+- Vaults and banks able to confirm a bar without relying on stamps, seals or certificates
+- Chain of custody anchored to the metal rather than to accompanying documents
+
+### How a Military Logistics Operation Cut the Cost of Inventory Accountability
+Sector: Government & Military | Problem: Inventory accountability
+Section: https://www.alitheon.com/case-studies#military-inventory-accountability
+
+A military logistics operation was spending substantial personnel time on recurring inventory and accountability, work that depended on reading markings that wear, corrode or become unreadable. FeaturePrint identifies each item from a photograph of its own surface. Fewer people complete a pass faster, without the misidentification that manual reading of degraded markings produces.
+
+Key results:
+- Inventory passes completed by fewer personnel in less time
+- Misidentification from worn, damaged or unreadable markings removed from the process
+- Accountability records that reflect the physical items rather than the legibility of their marks
+
+### How a Defense Supply Chain Stopped Counterfeit Parts Before Installation
+Sector: Government & Military | Problem: Counterfeit parts
+Section: https://www.alitheon.com/case-studies#defense-counterfeit-parts
+
+A defense supply chain was relying on certifications, approved suppliers and markings to keep fraudulent parts out — controls that describe the channel rather than the component that actually arrived. FeaturePrint authenticates each part against its own enrolled surface before acceptance, so a part that is not the enrolled part does not enter the chain.
+
+Key results:
+- Parts verified individually before acceptance, not sampled after the fact
+- Detection independent of markings, certifications and supplier paperwork
+- Logged, timestamped authentication records supporting DFARS 252.246-7007
+

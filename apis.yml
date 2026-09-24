@@ -1,23 +1,75 @@
 aid: alitheon
+
 name: Alitheon
-description: 'Alitheon is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.alitheon.com/og-image.jpg
+
+description: 'Alitheon provides FeaturePrint®, an optical‑AI technology that creates a unique digital fingerprint of any physical object from a single photograph. It enables organizations to identify, authenticate, and trace items without labels, tags, or chips, serving sectors such as luxury goods, healthcare, automotive, government, and electronics.'
+
 url: https://raw.githubusercontent.com/api-evangelist/alitheon/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-24 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-24'
+
 modified: '2026-09-24'
+
 tags:
-- Company
-apis: []
+- Authentication
+- Anti‑Counterfeit
+- Asset Management
+- Supply Chain
+- Physical Identity
+- Optical AI
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Authentication
+  url: authentication/alitheon-authentication.yml
+- type: LLMsTxt
+  url: llms/alitheon-llms.txt
+- type: Hosts
+  url: hosts/alitheon-hosts.yml
+- type: Vendors
+  url: vendors/alitheon-vendors.yml
+- type: TermsOfService
+  url: https://www.alitheon.com/terms-conditions
+- type: PrivacyPolicy
+  url: https://www.alitheon.com/privacy-policy
+- type: GettingStarted
+  url: https://docs.alitheon.com/docs/user-guide/9thid5p81kyai-getting-started
+- type: Documentation
+  url: https://docs.alitheon.com/
+- type: DomainSecurity
+  url: security/alitheon-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/alitheon
+  url: https://alitheon.com
+
+apis: []
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-09-24'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+x-enrichment:
+  date: '2026-09-24'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

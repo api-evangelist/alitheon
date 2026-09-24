@@ -1,0 +1,19 @@
+generated: '2026-09-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://docs.alitheon.com/docs/fp4-integration-doc/7whjca4580q0u-authentication-and-authorization
+sources:
+- https://docs.alitheon.com/docs/fp4-integration-doc/7whjca4580q0u-authentication-and-authorization
+- https://docs.alitheon.com/docs/user-guide/9thid5p81kyai-getting-started
+description: Authentication methods published by Alitheon
+schemes:
+- type: oauth2
+  name: Service Client Credential Flow
+  evidence: The service client credentials (client id and client secret) can be used indefinitely to log in non‑interactively using the /authz/v1/token‑exchange/client
+    endpoint described in the API documentation.
+  flows:
+  - client_credentials
+  token_url: /authz/v1/token-exchange/client
+  how_to_obtain: Create a service client in the Web Portal (User Management → New Service Client) and copy the client Id and client secret.
+docs: https://docs.alitheon.com/docs/fp4-integration-doc/7whjca4580q0u-authentication-and-authorization
+note: 1 extracted row(s) were dropped because their quote was not on the page.
